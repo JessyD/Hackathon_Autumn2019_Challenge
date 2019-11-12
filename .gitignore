@@ -1,0 +1,16 @@
+# Vim files
+*.swp
+*.swo
+
+# macOs General
+.DS_Store
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# JetBrains IDEs
+.idea
+
+# Virtual enviroment
+venv
